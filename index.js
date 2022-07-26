@@ -24,7 +24,7 @@ var distance=setTime-TodayTime;
     var h=document.getElementById("hours");
 
     var s=document.getElementById("minutes");
-// document.getElementById("Time").innerHTML= +days+ " Days " +hours+ " Hours : " +minutes+ " Minutes : " +seconds+ " Seconds "
+
 
 document.getElementById('day').innerHTML=days+" Days";
 
